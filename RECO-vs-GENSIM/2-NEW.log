@@ -1,0 +1,151 @@
+Count: 0; Run = 1; Lumi = 2; Event = 6
+Count: 1; Run = 1; Lumi = 2; Event = 3
+Count: 2; Run = 1; Lumi = 2; Event = 5
+Count: 3; Run = 1; Lumi = 2; Event = 7
+Count: 4; Run = 1; Lumi = 2; Event = 8
+Count: 5; Run = 1; Lumi = 2; Event = 4
+Count: 6; Run = 1; Lumi = 2; Event = 2
+Count: 7; Run = 1; Lumi = 2; Event = 1
+Count: 8; Run = 1; Lumi = 2; Event = 11
+Count: 9; Run = 1; Lumi = 2; Event = 14
+Count: 10; Run = 1; Lumi = 2; Event = 12
+Count: 11; Run = 1; Lumi = 2; Event = 13
+Count: 12; Run = 1; Lumi = 2; Event = 9
+Count: 13; Run = 1; Lumi = 2; Event = 10
+Count: 14; Run = 1; Lumi = 2; Event = 18
+Count: 15; Run = 1; Lumi = 2; Event = 16
+Count: 16; Run = 1; Lumi = 2; Event = 15
+Count: 17; Run = 1; Lumi = 2; Event = 19
+Count: 18; Run = 1; Lumi = 2; Event = 17
+Count: 19; Run = 1; Lumi = 2; Event = 20
+Count: 20; Run = 1; Lumi = 2; Event = 23
+Count: 21; Run = 1; Lumi = 2; Event = 24
+Count: 22; Run = 1; Lumi = 2; Event = 21
+Count: 23; Run = 1; Lumi = 2; Event = 25
+Count: 24; Run = 1; Lumi = 2; Event = 22
+Count: 25; Run = 1; Lumi = 2; Event = 26
+Count: 26; Run = 1; Lumi = 2; Event = 31
+Count: 27; Run = 1; Lumi = 2; Event = 28
+Count: 28; Run = 1; Lumi = 2; Event = 27
+ ==> PASS
+ cand_xyp0 = -0.0336128
+ cand_xyp1 = 0.428558
+ cand_xyp2 = 2.62929e+06
+ cand_rzp0 = -4.46421
+ cand_rzp1 = -0.0435684
+ cand_rzp2 = -0.000179668
+ cand_eta  = -0.15147
+ cand_phi  = 0.422273
+Count: 29; Run = 1; Lumi = 2; Event = 33
+Count: 30; Run = 1; Lumi = 2; Event = 30
+Count: 31; Run = 1; Lumi = 2; Event = 37
+Count: 32; Run = 1; Lumi = 2; Event = 40
+Count: 33; Run = 1; Lumi = 2; Event = 34
+ ==> PASS
+ cand_xyp0 = 0.0606431
+ cand_xyp1 = -0.389629
+ cand_xyp2 = -3.96893e+06
+ cand_rzp0 = -6.65232
+ cand_rzp1 = 1.16287
+ cand_rzp2 = 0.000242203
+ cand_eta  = 0.997608
+ cand_phi  = -0.371413
+Count: 34; Run = 1; Lumi = 2; Event = 29
+Count: 35; Run = 1; Lumi = 2; Event = 32
+Count: 36; Run = 1; Lumi = 2; Event = 36
+Count: 37; Run = 1; Lumi = 2; Event = 35
+Count: 38; Run = 1; Lumi = 2; Event = 43
+Count: 39; Run = 1; Lumi = 2; Event = 38
+Count: 40; Run = 1; Lumi = 2; Event = 44
+Count: 41; Run = 1; Lumi = 2; Event = 39
+Count: 42; Run = 1; Lumi = 2; Event = 41
+Count: 43; Run = 1; Lumi = 2; Event = 42
+Count: 44; Run = 1; Lumi = 2; Event = 46
+Count: 45; Run = 1; Lumi = 2; Event = 49
+Count: 46; Run = 1; Lumi = 2; Event = 48
+Count: 47; Run = 1; Lumi = 2; Event = 54
+Count: 48; Run = 1; Lumi = 2; Event = 47
+Count: 49; Run = 1; Lumi = 2; Event = 45
+Count: 50; Run = 1; Lumi = 2; Event = 55
+Count: 51; Run = 1; Lumi = 2; Event = 51
+Count: 52; Run = 1; Lumi = 2; Event = 53
+Count: 53; Run = 1; Lumi = 2; Event = 56
+Count: 54; Run = 1; Lumi = 2; Event = 57
+Count: 55; Run = 1; Lumi = 2; Event = 50
+Count: 56; Run = 1; Lumi = 2; Event = 52
+Count: 57; Run = 1; Lumi = 2; Event = 58
+Count: 58; Run = 1; Lumi = 2; Event = 59
+Count: 59; Run = 1; Lumi = 2; Event = 63
+Count: 60; Run = 1; Lumi = 2; Event = 61
+Count: 61; Run = 1; Lumi = 2; Event = 65
+Count: 62; Run = 1; Lumi = 2; Event = 68
+Count: 63; Run = 1; Lumi = 2; Event = 67
+Count: 64; Run = 1; Lumi = 2; Event = 69
+Count: 65; Run = 1; Lumi = 2; Event = 66
+Count: 66; Run = 1; Lumi = 2; Event = 71
+Count: 67; Run = 1; Lumi = 2; Event = 62
+Count: 68; Run = 1; Lumi = 2; Event = 73
+Count: 69; Run = 1; Lumi = 2; Event = 74
+Count: 70; Run = 1; Lumi = 2; Event = 64
+Count: 71; Run = 1; Lumi = 2; Event = 60
+Count: 72; Run = 1; Lumi = 2; Event = 75
+Count: 73; Run = 1; Lumi = 2; Event = 70
+Count: 74; Run = 1; Lumi = 2; Event = 80
+Count: 75; Run = 1; Lumi = 2; Event = 72
+Count: 76; Run = 1; Lumi = 2; Event = 76
+Count: 77; Run = 1; Lumi = 2; Event = 79
+Count: 78; Run = 1; Lumi = 2; Event = 83
+Count: 79; Run = 1; Lumi = 2; Event = 77
+ ==> PASS
+ cand_xyp0 = 0.125214
+ cand_xyp1 = 0.0891485
+ cand_xyp2 = -17155.7
+ cand_rzp0 = 4.53855
+ cand_rzp1 = 3.28147
+ cand_rzp2 = -0.000696545
+ cand_eta  = 1.84211
+ cand_phi  = 0.07065
+Count: 80; Run = 1; Lumi = 2; Event = 78
+Count: 81; Run = 1; Lumi = 2; Event = 89
+Count: 82; Run = 1; Lumi = 2; Event = 88
+Count: 83; Run = 1; Lumi = 2; Event = 85
+Count: 84; Run = 1; Lumi = 2; Event = 81
+Count: 85; Run = 1; Lumi = 2; Event = 82
+Count: 86; Run = 1; Lumi = 2; Event = 86
+Count: 87; Run = 1; Lumi = 2; Event = 92
+Count: 88; Run = 1; Lumi = 2; Event = 90
+Count: 89; Run = 1; Lumi = 2; Event = 91
+Count: 90; Run = 1; Lumi = 2; Event = 84
+Count: 91; Run = 1; Lumi = 2; Event = 87
+Count: 92; Run = 1; Lumi = 2; Event = 93
+Count: 93; Run = 1; Lumi = 2; Event = 95
+Count: 94; Run = 1; Lumi = 2; Event = 98
+Count: 95; Run = 1; Lumi = 2; Event = 96
+Count: 96; Run = 1; Lumi = 2; Event = 99
+Count: 97; Run = 1; Lumi = 2; Event = 97
+Count: 98; Run = 1; Lumi = 2; Event = 100
+ ==> PASS
+ cand_xyp0 = 0.0749172
+ cand_xyp1 = -1.11897
+ cand_xyp2 = -3.92689e+06
+ cand_rzp0 = -5.97318
+ cand_rzp1 = -0.332537
+ cand_rzp2 = -0.000467475
+ cand_eta  = -0.411546
+ cand_phi  = -1.12965
+Count: 99; Run = 1; Lumi = 2; Event = 94
+=====================================================
+===== Dumping Cut Tables
+HLT_Photon200_v N-1 TRG 21
+HLT_Photon200_v N-1 QualityCuts 5
+HLT_Photon200_v N-1 ECut 4
+HLT_Photon200_v N-1 F51Cut 5
+HLT_Photon200_v N-1 dEdXSigCut 4
+HLT_Photon200_v CutFlow TRG 6
+HLT_Photon200_v CutFlow QualityCuts 5
+HLT_Photon200_v CutFlow ECut 5
+HLT_Photon200_v CutFlow F51Cut 4
+HLT_Photon200_v CutFlow dEdXSigCut 4
+-----------------------------------------------------
+==== End Cut Tables
+=====================================================
